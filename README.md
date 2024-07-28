@@ -8,6 +8,9 @@ This project is a simple implementation of the classic Tic-Tac-Toe game using Ja
 
 The game features a 3x3 grid where players take turns marking a cell with either 'X' or 'O'. The game checks for a winner after each move and announces the winner when one player manages to align three of their marks horizontally, vertically, or diagonally. If all cells are filled without a winner, the game ends in a draw.
 
+
+![image](https://github.com/user-attachments/assets/fb2e594f-1089-42ff-bd22-17805403152c)
+
 ## Tools and Components
 
 ### Java Swing
